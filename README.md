@@ -2,7 +2,7 @@
 
 # GUI-Based Banking Management System
 
-### Course: Object-Oriented Programming (OOP) 
+### Course: Object-Oriented Programming (OOP) , Database Systems
 ### Languages & Technologies: Java, Oracle Database
 
 ---
@@ -35,12 +35,11 @@ The **GUI-Based Banking Management System** is a Java-based desktop application 
 2. **Setup Steps:**
    - Clone the repository:
      ```bash
-     git clone <repository-URL>
+     git clone <https://github.com/Rabbia-Noor/-GUI-Banking-System.git>
      cd GUI-Banking-System
      ```
    - Open the project in **Eclipse IDE**.
    - Configure the **Oracle Database**:
-     - Import the provided SQL script (`database.sql`) to set up the schema and initial data.
      - Update database connection details (e.g., `username`, `password`, and `connection URL`) in the source code.
 3. **Run the Application:**
    - Run the `Main.java` file to launch the application.
